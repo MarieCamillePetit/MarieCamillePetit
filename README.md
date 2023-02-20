@@ -16,6 +16,6 @@ const marieCamille = {
 };
 ```
 
-<img src="https://media.tenor.com/YLeUlXjWwKcAAAAC/goku-chichi.gif" width="60"> <em><b>I like to travel, discover new culture or even connect with different people!</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> (Github : Marie.#9616 )</em>
+<img src="https://media.tenor.com/YLeUlXjWwKcAAAAC/goku-chichi.gif" width="60"> <em><b>I like to travel, discover new culture or even connect with different people!</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> (Discord: Marie.#9616 )</em>
 
 ---
